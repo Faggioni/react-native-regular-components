@@ -1,6 +1,6 @@
 {
   "name": "react-native-regular-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Regular use components for React Native",
   "main": "index.js",
   "scripts": {
