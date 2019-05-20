@@ -1,15 +1,22 @@
 {
-  "name": "react-native-regular-components",
-  "version": "1.0.1",
-  "description": "Regular use components for React Native",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "react-native",
-    "components"
-  ],
-  "author": "faggioni",
-  "license": "ISC"
+    "name": "react-native-regular-components",
+    "version": "1.0.1",
+    "description": "Regular use components for React Native",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+        "react-native",
+        "components"
+    ],
+    "author": "faggioni",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.4.4",
+        "@babel/preset-env": "^7.4.4",
+        "babel-core": "^6.26.3",
+        "babel-jest": "^24.8.0",
+        "jest": "^24.8.0"
+    }
 }
